@@ -1,0 +1,1 @@
+{"projectConfig": {"appid": "YOUR_APP_ID","app_name": "YOUR_APP_NAME","project_type": "mini_program","miniprogramRoot": "./dist","script": {"source": "./src","destination": "./dist"}}}
